@@ -102,32 +102,32 @@ Bar charts show the top 10 states and cities by sales amount.
 The dashboard design is customized with predefined colors and layouts to ensure an appealing user interface.
 
 ## Technologies and Libraries Used
-## Data Handling and Analysis:
+### Data Handling and Analysis:
 
 pandas, numpy
 
-## Visualization:
+### Visualization:
 
 seaborn, matplotlib, plotly
 
-## Preprocessing & Imputation:
+### Preprocessing & Imputation:
 
 sklearn.preprocessing, sklearn.impute.KNNImputer
 
-## Imbalanced Data Handling:
+### Imbalanced Data Handling:
 
 imblearn.over_sampling.SMOTE
 
-## Modeling:
+### Modeling:
 
 sklearn.linear_model.LogisticRegression
 
 mlxtend.feature_selection.SequentialFeatureSelector
 
-## Clustering & Outlier Detection:
+### Clustering & Outlier Detection:
 
 sklearn.cluster.KMeans
 
-## Dashboard Development:
+### Dashboard Development:
 
 dash, dash_bootstrap_components
